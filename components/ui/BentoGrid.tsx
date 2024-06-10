@@ -176,7 +176,7 @@ const handleDownload = () => {
               </div>
 
               <MagicButton
-              title={downloaded ? "Download Successful" : "Download Resume"}
+              title={downloaded ? "Download Successful" : "Updated Credentials"}
               icon={<IoDownloadOutline />}
               position="left"
               handleClick={handleDownload} 
