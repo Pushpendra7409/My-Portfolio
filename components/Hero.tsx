@@ -25,7 +25,7 @@ const Hero = () => {
         words="Transforming Concepts into Seamless User Experiences"
         />
 
-        <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">Hi, I&apos;m Pushpendra Singh a Next.js Developer.</p>
+        <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">Hi, I&apos;m Pushpendra Singh a Full-Stack Web Developer.</p>
 
     <a href="#about">
       <MagicButton 

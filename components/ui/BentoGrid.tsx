@@ -64,7 +64,7 @@ export const BentoGridItem = ({
   };
 
   const handleDownload = () => {
-    const fileUrl = 'https://www.jiocloud.com/l/?u=H9XOwiV4ihqvi-bbDWYCNvoCVHWgiEv2HSHdBldegqY=o8v';
+    const fileUrl = 'https://www.jiocloud.com/l/?u=fIO8yZt0SzN533CyQF6NgMOMmemcmfqyHRKa0qesRHs=VaU';
     window.open(fileUrl, '_blank');
     setDownloaded(true);
     setTimeout(() => {
@@ -163,7 +163,7 @@ export const BentoGridItem = ({
               </div>
 
               <MagicButton
-                title={downloaded ? 'Download Successful' : 'Updated Credentials'}
+                title={downloaded ? 'Download Successful' : 'See My Credentials'}
                 icon={<IoDownloadOutline />}
                 position="left"
                 handleClick={handleDownload}

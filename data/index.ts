@@ -76,13 +76,13 @@ export const navItems = [
       des: "Showcasing my best work in design, development, and creativity. Explore my journey through pixels and code.😊",
       img: "/p1.jpg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://github.com/Pushpendra7409/portfolio",
+      link: "https://github.com/Pushpendra7409/My-Portfolio",
     },
     {
       id: 2,
       title: "E-Commerce Website",
       des: "Enjoy seamless browsing, and shop securely.Elevate your shopping experience today!😊",
-      img: "/p2.png",
+      img: "/p2.jpg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
       link: "",
     },
@@ -96,45 +96,55 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Unlimited Entertainment",
-      des: "Explore a world of cinematic wonders! Our movies website offers a seamless experience Lights, camera, action!” 🎬🍿",
-      img: "/p4.png",
+      title: "Hotel Booking",
+      des: "“Discover your ideal stay! Our hotel booking platform offers seamless reservations, stunning visuals, and top-notch amenities. Book now!” 🏨",
+      img: "/p4.jpg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "",
+      link: "https://github.com/Pushpendra7409/HotelBooking",
     },
   ];
   
   export const testimonials = [
     {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      quote: "Working with Adrian was a transformative experience for our business. His keen eye for detail and innovative solutions helped us overcome several challenges. Adrian's commitment to our project's success was unparalleled.",
+      name: "Emily Davis",
+      title: "CEO of GreenWave Solutions"
     },
     {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      quote: "Adrian is a top-tier developer whose expertise and creative problem-solving skills significantly enhanced our web presence. His ability to understand our needs and translate them into a functional, user-friendly site was remarkable.",
+      name: "Raj Patel",
+      title: "CTO of TechVision Labs"
     },
     {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      quote: "From start to finish, Adrian demonstrated exceptional technical acumen and a deep understanding of our industry. His collaborative approach and responsiveness made the entire process smooth and enjoyable.",
+      name: "Sophia Martinez",
+      title: "Marketing Manager at Stellar Innovations"
     },
     {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      quote: "Adrian's work ethic and technical expertise are second to none. He consistently delivered high-quality results on time and exceeded our expectations at every turn. Highly recommended for any web development project.",
+      name: "Liam Thompson",
+      title: "Product Manager at Quantum Dynamics"
     },
     {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      quote: "Adrian brought a wealth of knowledge and creativity to our project. His dedication to ensuring our website was both visually appealing and highly functional made a significant impact on our business.",
+      name: "Olivia Nguyen",
+      title: "Founder of Bright Future Enterprises"
     },
+    {
+      quote: "Collaborating with Adrian was an enriching experience. His strategic insights and meticulous attention to detail helped us achieve our goals seamlessly. His contributions were invaluable to our project's success.",
+      name: "Ethan Brooks",
+      title: "Operations Director at Apex Solutions"
+    },
+    {
+      quote: "Adrian is a rare find in the development world. His technical prowess, combined with his ability to communicate complex concepts clearly, made our collaboration highly productive and enjoyable.",
+      name: "Isabella Chen",
+      title: "Chief Digital Officer at InnovateX"
+    },
+    {
+      quote: "Adrian's professionalism and expertise shone through in every aspect of our project. He was instrumental in transforming our vision into a reality, delivering a website that exceeded our expectations.",
+      name: "James Wilson",
+      title: "Head of Design at BlueSky Creative"
+    }
   ];
   
   export const companies = [
