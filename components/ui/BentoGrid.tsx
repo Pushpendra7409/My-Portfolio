@@ -64,7 +64,11 @@ export const BentoGridItem = ({
   };
 
   const handleDownload = () => {
+<<<<<<< HEAD
     const fileUrl = 'https://www.jiocloud.com/l/?u=fIO8yZt0SzN533CyQF6NgMOMmemcmfqyHRKa0qesRHs=VaU';
+=======
+    const fileUrl = 'https://s29.q4cdn.com/175625835/files/doc_downloads/test.pdf';
+>>>>>>> origin/main
     window.open(fileUrl, '_blank');
     setDownloaded(true);
     setTimeout(() => {
