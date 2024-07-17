@@ -6,7 +6,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 
-Open [https://6697df37657aaddfebe20a4c--pushpendracodexdev.netlify.app/](http://localhost:3000) with your browser to see the result.
+Open [https://6697df37657aaddfebe20a4c--pushpendracodexdev.netlify.app/](https://6697df37657aaddfebe20a4c--pushpendracodexdev.netlify.app/) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
