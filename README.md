@@ -1,9 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Welcome to my Portfolio website
-<img width="772" alt="1" src="https://github.com/user-attachments/assets/a4bc2fd5-df08-4fe9-8a23-e847e1642831">
-<img width="716" alt="3" src="https://github.com/user-attachments/assets/06623fad-8afc-436e-96e7-340d12677795">
-<img width="797" alt="4" src="https://github.com/user-attachments/assets/6cc257e6-95ed-4931-a546-27fc48366c04">
+<img width="757" alt="1" src="https://github.com/user-attachments/assets/44e1e95b-002a-4c22-8b21-ae38ca60053e">
+<img width="762" alt="4" src="https://github.com/user-attachments/assets/85dafd4d-605d-4a79-baf1-f7f5bb96c0e5">
+
 
 
 Open [https://6697df37657aaddfebe20a4c--pushpendracodexdev.netlify.app/](http://localhost:3000) with your browser to see the result.
