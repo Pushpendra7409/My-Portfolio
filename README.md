@@ -2,10 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Welcome to my Portfolio website
 <img width="772" alt="1" src="https://github.com/user-attachments/assets/a4bc2fd5-df08-4fe9-8a23-e847e1642831">
-<img width="714" alt="2" src="https://github.com/user-attachments/assets/d525c5ec-67e2-4e1b-ab36-8e673c3c37b2">
 <img width="716" alt="3" src="https://github.com/user-attachments/assets/06623fad-8afc-436e-96e7-340d12677795">
 <img width="797" alt="4" src="https://github.com/user-attachments/assets/6cc257e6-95ed-4931-a546-27fc48366c04">
-<img width="946" alt="5" src="https://github.com/user-attachments/assets/db38ca4a-111d-4622-a804-e932ceddab9f">
 
 
 Open [https://6697df37657aaddfebe20a4c--pushpendracodexdev.netlify.app/](http://localhost:3000) with your browser to see the result.
