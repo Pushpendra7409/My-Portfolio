@@ -1,5 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+Check Live Stream :- 
 ## Welcome to my Portfolio website
 <img width="757" alt="1" src="https://github.com/user-attachments/assets/44e1e95b-002a-4c22-8b21-ae38ca60053e">
 <img width="762" alt="4" src="https://github.com/user-attachments/assets/85dafd4d-605d-4a79-baf1-f7f5bb96c0e5">
