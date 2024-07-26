@@ -64,7 +64,7 @@ export const BentoGridItem = ({
   };
 
   const handleDownload = () => {
-    const fileUrl = 'https://www.jiocloud.com/l/?u=fIO8yZt0SzN533CyQF6NgMOMmemcmfqyHRKa0qesRHs=VaU';
+    const fileUrl = 'https://drive.google.com/uc?export=download&id=16BmXE8-ipg5IlJyXjcq42oyBHEAIoPTp';
     window.open(fileUrl, '_blank');
     setDownloaded(true);
     setTimeout(() => {
